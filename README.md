@@ -10,4 +10,4 @@ This app was created out of pure fear that Chicago might forget this iconic Mull
 
 ### To Use
 
-This app was built mobile-first. Consider using a cellphone to view Mulletdown.
+This app was built mobile-first. Consider using a cellphone to view <a href="https://mulletdown.herokuapp.com/">Mulletdown</a>.
