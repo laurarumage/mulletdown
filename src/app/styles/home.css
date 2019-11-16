@@ -1,0 +1,26 @@
+body {
+  background-color: hotpink;
+  color: white;
+}
+
+footer, header, main {
+  padding: 15px;
+}
+
+.dude {
+  margin: 25px auto;
+  max-width: 90%;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex.justify--between {
+  justify-content: space-between;
+}
+
+.menu-option {
+  color: yellow;
+  text-decoration: underline;
+}
